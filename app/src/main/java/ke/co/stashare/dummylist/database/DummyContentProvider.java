@@ -13,7 +13,6 @@ import android.support.annotation.Nullable;
 public class DummyContentProvider extends ContentProvider {
 
 
-
     @Override
     public boolean onCreate() {
         return false;
